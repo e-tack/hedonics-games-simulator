@@ -5,5 +5,5 @@ Dépendances python:
 - click
 
 Comment lancer le programme ?
-- python main.py --help
-- python main.py 6 optimist average is --seed 42
+- python3 main.py --help
+- python3 main.py 6 optimist average is --seed 42
