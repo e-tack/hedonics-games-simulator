@@ -1,9 +1,9 @@
-Projet annuel pour le M1 Informatique de l'Université de Caen.
+Annual project made during my first year of master's degree in computer science at University of Caen
 
-Dépendances python:
+Requirements:
 - numpy
 - click
 
-Comment lancer le programme ?
+How to run the program?
 - python3 main.py --help
 - python3 main.py 6 optimist average is --seed 42
